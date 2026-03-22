@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Notebooks de solución / uso docente (no subir al remoto)
+*_DOCENTE.ipynb
+*_docente.ipynb
