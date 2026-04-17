@@ -11,7 +11,7 @@ dython
 termcolor
 pillow
 ipython
-pickle
+
 
 # modelos pesados separados
 xgboost
@@ -22,3 +22,5 @@ torch
 torchvision
 
 kagglehub
+
+spacy
