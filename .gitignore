@@ -18,3 +18,8 @@ env/
 03_unidad/data/
 03_unidad/images/
 03_unidad/dataset_object_localization.zip
+tb_logs/
+wikicat_bert/
+hf/
+hf_balanced/
+hf_classweights/
