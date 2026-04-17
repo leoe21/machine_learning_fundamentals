@@ -1,0 +1,25 @@
+# Core notebooks (EDA, ML clasico, visualizacion)
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+scikit-learn
+statsmodels
+plotly
+yellowbrick
+dython
+xgboost
+termcolor
+pillow
+ipython
+
+# Deep learning notebooks (03_unidad)
+torch
+torchvision
+
+# Dataset download helper used in notebooks
+kagglehub
+
+# Optional for Google Colab-only cells:
+# google-colab

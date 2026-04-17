@@ -13,3 +13,8 @@ env/
 # Notebooks de solución / uso docente (no subir al remoto)
 *_DOCENTE.ipynb
 *_docente.ipynb
+
+# Dataset local de 03_unidad (se descarga desde release)
+03_unidad/data/
+03_unidad/images/
+03_unidad/dataset_object_localization.zip
