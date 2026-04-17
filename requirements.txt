@@ -1,5 +1,4 @@
-# Core notebooks (EDA, ML clasico, visualizacion)
-numpy
+numpy<2
 pandas
 matplotlib
 seaborn
@@ -9,17 +8,17 @@ statsmodels
 plotly
 yellowbrick
 dython
-xgboost
 termcolor
 pillow
 ipython
+pickle
 
-# Deep learning notebooks (03_unidad)
+# modelos pesados separados
+xgboost
+optuna
+
+# deep learning (instalar aparte si falla)
 torch
 torchvision
 
-# Dataset download helper used in notebooks
 kagglehub
-
-# Optional for Google Colab-only cells:
-# google-colab
